@@ -13,6 +13,7 @@ function App() {
         <br></br>
         <h3>It's really great to see</h3>
         <span> that our CI/CD Working perfect</span>
+        <center> Finally I did it using Amazon Amplify to deploy application</center>
       </header>
     </div>
   );
